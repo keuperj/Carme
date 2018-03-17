@@ -1,34 +1,33 @@
 # Carme
+![carme_logo](Images/carme.png)
 
 ## HPC meets interactive Data Science and Machine Learning 
-Carme (/ˈkɑːrmiː/ KAR-mee; Greek: Κάρμη) is a Jupiter moon, also giving the name for a Cluster of Jupiter moons (the carme group).
+**Carme (/ˈkɑːrmiː/ KAR-mee; Greek: Κάρμη) is a Jupiter moon, also giving the name for a Cluster of Jupiter moons (the carme group).**
 
 Or in our case:
 
-an open source frame work to mange resources for multiple users running Jupyter notebooks on a 
-Cluster of (GPU) compute nodes.
+an open source frame work to mange resources for **multiple users** running **Jupyter notebooks** on a 
+**Cluster** of (GPU) compute nodes.
 
 ## Carme core idea:
-
-Combine established open source ML and DS tools with HPC back-ends
+**Combine established open source ML and DS tools with HPC back-ends**
 * Use containers -> (for now) Docker 
 * Use Jupyter Notebooks as main web based GUI-Frontend
 * All web front-end (OS independent, no installation on user side needed)   
 * Use HPC job management and scheduler -> SLURM
 * Use HPC data I/O technology -> ITWM’s BeeGFS  
 * Use HPC maintenance and monitoring tools 
-
+![scheme](Images/scheme.png)
 ## Key Features
-
 * Open source
- * Carme uses only opensource components that allow commercial usage
- * Carme is open source, allowing commercial usage  
+  * Carme uses only opensource components that allow commercial usage
+  * Carme is open source, allowing commercial usage  
 * User Management 
- * User quotas (GPU time, priority, GPUs per job, jobs per time, Disk quota)
- * Different User Roles (Quotas, right to add containers) 
+  * User quotas (GPU time, priority, GPUs per job, jobs per time, Disk quota)
+  * Different User Roles (Quotas, right to add containers) 
 * Container Management
- * Container store (user selects from predefined containers)
- * Adding of user defined containers
+  * Container store (user selects from predefined containers)
+  * Adding of user defined containers
 * Scheduler
   * Resource reservation (calender)
   * Job queues for large jobs and instant interactive access for small jobs   
