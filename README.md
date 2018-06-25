@@ -10,7 +10,7 @@ an open source frame work to mange resources for **multiple users** running **Ju
 **Cluster** of (GPU) compute nodes.
 
 ## Carme Presentations 
-*[Slides from our talk at ISC18](https://www.researchgate.net/publication/325967129_Carme-An_Open_Source_Framework_for_Multi-User_Interactive_Machine_Learning_on_Distributed_GPU-Systems)
+* [Slides from our talk at ISC18](https://www.researchgate.net/publication/325967129_Carme-An_Open_Source_Framework_for_Multi-User_Interactive_Machine_Learning_on_Distributed_GPU-Systems)
 
 ## Carme core idea:
 **Combine established open source ML and DS tools with HPC back-ends**
