@@ -39,7 +39,14 @@ an open source frame work to mange resources for **multiple users** running **Ju
  * Web front-end (management and IDE)   
  
 ## Comming soon...
-The Carme prototype (alpha) is currently up and running - we are working towards the first beta release to be presented at ISC 18 (mid June)
+* The Carme prototype (beta) is currently up and running on our Cluster 
+* First public beta reales: 9/2018
+* 1.0 End 2018
 
 ## Who is behind Carme?
-Carme is currently developed at the machine learning group of the Fraunhofer Competence Center HPC -> http://itwm.fraunhofer.de/ml 
+* Carme is currently developed at the machine learning group of the Fraunhofer Competence Center HPC -> http://itwm.fraunhofer.de/ml 
+* Contact: info@open-carme.org
+
+
+
+We are open for contributions! 
