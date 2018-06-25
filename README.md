@@ -1,5 +1,5 @@
 # Carme
-![carme_logo](Images/carme.png)
+![carme_logo](Images/carme-logo.png)
 
 ## HPC meets interactive Data Science and Machine Learning 
 **Carme (/ˈkɑːrmiː/ KAR-mee; Greek: Κάρμη) is a Jupiter moon, also giving the name for a Cluster of Jupiter moons (the carme group).**
@@ -11,13 +11,13 @@ an open source frame work to mange resources for **multiple users** running **Ju
 
 ## Carme core idea:
 **Combine established open source ML and DS tools with HPC back-ends**
-* Use containers -> (for now) Docker 
+* Use containers -> Singularity
 * Use Jupyter Notebooks as main web based GUI-Frontend
 * All web front-end (OS independent, no installation on user side needed)   
 * Use HPC job management and scheduler -> SLURM
 * Use HPC data I/O technology -> ITWM’s BeeGFS  
 * Use HPC maintenance and monitoring tools 
-![scheme](Images/scheme.png)
+![scheme](Images/carme-run.png)
 ## Key Features
 * Open source
   * Carme uses only opensource components that allow commercial usage
