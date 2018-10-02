@@ -43,7 +43,7 @@ an open source frame work to mange resources for **multiple users** running **Ju
  
 ## Comming soon...
 * The Carme prototype (beta) is currently up and running on our Cluster 
-* First public beta reales: 9/2018
+* First public beta reales: 11/2018 (at SuperComputing)
 * 1.0 End 2018
 
 ## Who is behind Carme?
