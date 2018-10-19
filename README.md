@@ -52,5 +52,9 @@ an open source frame work to mange resources for **multiple users** running **Ju
 * Contact: info@open-carme.org
 
 
-
 We are open for contributions! 
+
+## Sponsors
+The development of *Carme* is finaced by research grants from:
+<img src="Images/BMBF.jpeg" width=200>
+<img src="Images/RLP.jpg" width=200>
