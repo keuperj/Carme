@@ -55,6 +55,7 @@ an open source frame work to mange resources for **multiple users** running **Ju
 We are open for contributions! 
 
 ## Sponsors
-The development of *Carme* is finaced by research grants from:
+#### The development of *Carme* is finaced by research grants from:
+
 ![](Images/BMBF.jpeg )
 ![](Images/RLP.jpg )
