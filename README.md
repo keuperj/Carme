@@ -56,5 +56,5 @@ We are open for contributions!
 
 ## Sponsors
 The development of *Carme* is finaced by research grants from:
-![](Images/BMBF.jpeg)
-![](Images/RLP.jpg)
+![](Images/BMBF.jpeg =100x100)
+![](Images/RLP.jpg | width=100)
