@@ -9,6 +9,8 @@ Or in our case:
 an open source frame work to mange resources for **multiple users** running **Jupyter notebooks** on a 
 **Cluster** of (GPU) compute nodes.
 
+## Follow us on Twitter: https://twitter.com/open_carme #OpenCarme
+
 ## Carme Presentations 
 * [Slides from our talk at ISC18 6/18](https://www.researchgate.net/publication/325967129_Carme-An_Open_Source_Framework_for_Multi-User_Interactive_Machine_Learning_on_Distributed_GPU-Systems)
 * [Slides from our talk at LRZ 10/18](https://www.researchgate.net/publication/328161743_Carme-An_Open_Source_Framework_for_Multi-User_Interactive_Machine_Learning_on_Distributed_GPU-Systems)
