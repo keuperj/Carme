@@ -50,7 +50,12 @@ an open source frame work to mange resources for **multiple users** running **Ju
 * 1.0 End 2018
 
 ## Who is behind Carme?
-* Carme is currently developed at the machine learning group of the Fraunhofer Competence Center HPC -> http://itwm.fraunhofer.de/ml 
+* Carme is currently developed at the machine learning group of the Fraunhofer Competence Center HPC 
+
+[http://itwm.fraunhofer.de/ml](http://itwm.fraunhofer.de/ml)
+
+![](Images/logo.png)
+
 * Contact: info@open-carme.org
 
 
