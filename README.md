@@ -46,8 +46,8 @@ an open source frame work to mange resources for **multiple users** running **Ju
  
 ## Comming soon...
 * The Carme prototype (beta) is currently up and running on our Cluster 
-* First public beta reales: End 2018
-* First stable release: Mid 2019
+* First public beta reales: February 2019 
+* First stable release: June 2019
 
 ## Who is behind Carme?
 * Carme is currently developed at the machine learning group of the Fraunhofer Competence Center HPC 
