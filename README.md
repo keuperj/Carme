@@ -6,8 +6,7 @@
 
 Or in our case:
 
-an open source frame work to mange resources for **multiple users** running **Jupyter notebooks** on a 
-**Cluster** of (GPU) compute nodes.
+an open source frame work to mange resources for **multiple users** running **interactive jobs (e.g. Jupyter notebooks)** on a **Cluster** of (GPU) compute nodes.
 
 ## [Follow us on Twitter](https://twitter.com/open_carme) : #OpenCarme
 
